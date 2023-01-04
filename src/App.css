@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.form-div{
+  background-color: rgb(166, 179, 182);
+  display: block;
+  height:500px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
